@@ -48,3 +48,7 @@ Assume the ISP gave out a base network of 192.168.1.0, you as the young network 
 ## Device Communication Simulation:
 
 
+https://github.com/user-attachments/assets/84a0adcd-fa8c-4889-9c5e-8569d6507485
+
+
+
